@@ -1,2 +1,2 @@
 # techtecnic
-PAgina de paginas web
+Pagina de paginas web https://cristiannustes.github.io/techtecnic/.
